@@ -1,2 +1,6 @@
 # ECE351_Code
-For .py code
+Lance Carr
+carr9733@vandals.uidaho.edu
+
+This repository contains " .py " code for ECE351 lab.
+
